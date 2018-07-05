@@ -1,4 +1,4 @@
-# multidimensional arrays
+# machine learning
 
 These are files to build a github website hosting the [geohackweek](https://geohackweek.github.io/) machine learning [tutorial](https://geohackweek.github.io/machine-learning). Github automatically renders these files using Ruby to build the website.
 
