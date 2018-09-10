@@ -1,20 +1,20 @@
 ---
 title: "Machine Learning Resources"
-teaching: 0
+teaching: 5
 exercises: 0
 questions:
-- "?"
+- "What are some basic examples of libraries to explore?"
 objectives:
-- "Learn what kind of machine learning resources are available?"
+- "Learn what kind of machine learning resources are available that are not necessarily earmarked for GIS applications"
 keypoints:
 - "frameworks, libraries for geospatial machine learning"
 ---
 
 # Machine Learning Resources
 
-## Comupter Vision
+## Computer Vision
 
-1.[opencv](https://opencv.org)
+1. [opencv](https://opencv.org)
 
 ## Support Vector Machine/Random Forest/etc
 
@@ -34,3 +34,9 @@ keypoints:
 ## ESRI + QGIS
 
 Machine learning capabilities exist in both ESRI & QGIS (support vector machine), however for scaling to large image sets, opensource scripting is nicely adaptable.
+
+## Mapbox & Development Seed
+
+1. [robosat](https://github.com/mapbox/robosat)
+1. [training data from OSM](https://github.com/developmentseed/label-maker)
+
