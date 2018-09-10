@@ -2,7 +2,7 @@
 title: "Land Classification with Supervised Machine Learning"
 teaching: 0
 exercises: 11
-questions: 10
+questions: 
 - "
 1. What type of information can you discern from the streaming cloud imagery?
 2. One image is satellite imagery and one is aerial imagery. Can you tell which is which? Why? What other observations can you make about these images?
