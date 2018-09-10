@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning with GIS application (a Computer Vision Problem)"
-teaching: 15
+teaching: 20
 exercises: 0
 questions:
 - "What is machine learning? How can it be applied to the GIS landscape? What are some use cases?"
