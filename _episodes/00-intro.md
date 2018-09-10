@@ -85,3 +85,13 @@ Example Use Cases:
 
 <i> Impervious surface mapping (RGB left, boolean prediction map right). </i>
 
+![alt-text](../assets/img/houston_flood.png "Logo Title Text 1")
+![alt-text](../assets/img/houston_flood_fcn.png "Logo Title Text 1")
+
+<i> Hurricane Harvey Houston flood mapping </i>
+
+![alt-text](../assets/img/fire_ai.png "Logo Title Text 1")
+
+<i> Santa Rosa fire mapping </i>
+
+
