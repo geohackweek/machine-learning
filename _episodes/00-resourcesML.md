@@ -10,7 +10,7 @@ keypoints:
 - "frameworks, libraries for geospatial machine learning"
 ---
 
-# Machine Learning Resources for Geospatial Applications
+# Machine Learning Resources
 
 ## Support Vector Machine/Random Forest/etc
 
