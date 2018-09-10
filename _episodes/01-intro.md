@@ -16,4 +16,4 @@ Machine learning is a general term used to apply to many techniques which utiliz
 
 Learning itself is the act of gradually improvign performance on a task without being explicitly programmed. This process mimics human neurological functions.
 
-![alt-text](cat.png "Logo Title Text 1")
+![alt-text](assets/img/cat.png "Logo Title Text 1")
