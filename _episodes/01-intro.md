@@ -16,27 +16,29 @@ Machine learning is a general term used to apply to many techniques which utiliz
 
 Learning itself is the act of gradually improving performance on a task without being explicitly programmed. This process mimics human neurological functions.
 
+![alt-text](../assets/img/ml_image_type.png "Logo Title Text 1")
+
 ## ML as AI
 
 ![alt-text](../assets/img/ml_ai.png "Logo Title Text 1")
 
-<i> Figure 1. Machine learning is a component of artificial intelligence (AI) (a broader subject). There are many subject areas where ML may be applied, e.g. sound, language, and vision (essentially, traits we can identify with as a human). We can differentiate between machine learning and classical techniques. </i>
+<i> Machine learning is a component of artificial intelligence (AI) (a broader subject). There are many subject areas where ML may be applied, e.g. sound, language, and vision (essentially, traits we can identify with as a human). We can differentiate between machine learning and classical techniques. </i>
 
 ## Computer Vision Applications
 
 ![alt-text](../assets/img/cat.png "Logo Title Text 1")
 
-<i> Figure 2. Images as RGB digital counts. </i>
+<i> Images as RGB digital counts. </i>
 
 ![alt-text](../assets/img/segmentation.png "Logo Title Text 1")
 
-<i> Figure 3. Semantic segmentation is the act of labelling each individual pixel. </i>
+<i> Semantic segmentation is the act of labelling each individual pixel. </i>
 
 ## Supervised vs. Unsupervised
 
 ![alt-text](../assets/img/supervised_unsuper.png "Logo Title Text 1")
 
-<i> Figure 4. Supervised classification vs. unsupervised. </i>
+<i> Supervised classification vs. unsupervised. </i>
 
 
 ## ML Ethics
@@ -61,12 +63,17 @@ Example Use Cases:
 
 ![alt-text](../assets/img/lc.png "Logo Title Text 1")
 
-<i> Figure 5. Pedabytes of imagery may be processed repeatable, and quickly in the cloud, using ML techniques. </i>
+<i> Pedabytes of imagery may be processed repeatable, and quickly in the cloud, using ML techniques. </i>
 
 ![alt-text](../assets/img/littoral.png "Logo Title Text 1")
 
-<i> Figure 6. FL seagrass ground truth. </i>
+<i> FL seagrass ground truth. </i>
 
 ![alt-text](../assets/img/littoral_pred.png "Logo Title Text 1")
-<i> Figure 7. FL seagrass ML prediction mapping. </i>
+
+<i> FL seagrass ML prediction mapping. </i>
+
+![alt-text](../assets/img/impervious.png "Logo Title Text 1")
+
+<i> Impervious surface mapping (RGB left, boolean prediction map right). </i>
 
