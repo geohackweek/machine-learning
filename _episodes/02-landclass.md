@@ -1,17 +1,25 @@
 ---
 title: "Land Classification with Supervised Machine Learning"
 teaching: 0
-exercises: 11
+exercises: 0
 questions: 
 - "
 1. What type of information can you discern from the streaming cloud imagery?
+
 2. One image is satellite imagery and one is aerial imagery. Can you tell which is which? Why? What other observations can you make about these images?
+
 3. Why are there two different training data sets?
+
 4. What do you notice about the training and image data shapes? Do they make sense?
+
 5. What about the distribution of class types? 
+
 6. What could the distribution of the training data indicate? What changes could be useful?
+
 7. What are some of the major problems with the predicted result? How could we improve them?
+
 8. How can we define accuracy? Precision? What is recall?
+
 9. What kind of differences do you expect between the aerial and satellite image predictions?
 "
 objectives:
