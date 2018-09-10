@@ -1,7 +1,7 @@
 ---
 title: "Land Classification with Supervised Machine Learning"
 teaching: 0
-exercises: 10ish (group), 1 solo
+exercises: 11
 questions: 10
 - "?"
 objectives:
