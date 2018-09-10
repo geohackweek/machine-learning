@@ -1,11 +1,11 @@
 ---
 title: "Machine Learning with GIS application (a Computer Vision Problem)"
-teaching: 0
+teaching: 15
 exercises: 0
 questions:
-- "?"
+- "What is machine learning? How can it be applied to the GIS landscape? What are some use cases?"
 objectives:
-- "What is machine learning? How cann it be applied to the GIS landscape? What are some use cases?"
+- "Get a basic understanding of machine learning and GIS applications."
 keypoints:
 - "geospatial machine learning, use cases annd background"
 ---
@@ -43,7 +43,15 @@ Learning itself is the act of gradually improving performance on a task without 
 
 ## ML Ethics
 
+[Articles about bias/politics/etc](https://medium.com/@eirinimalliaraki/toward-ethical-transparent-and-fair-ai-ml-a-critical-reading-list-d950e70a70ea)
+
 ## ML Scalability
+
+1. Making sense of pedabytes of imagery in a consistent way
+1. Human feedback loop (QA/QC)
+
+![alt-text](../assets/img/cloud_scale.png "Logo Title Text 1")
+
 
 ## GIS is Ideal for ML
 
