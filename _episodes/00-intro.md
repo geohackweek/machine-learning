@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning with GIS application (a Computer Vision Problem)"
-teaching: 20
+teaching: 15
 exercises: 0
 questions:
 - "What is machine learning? How can it be applied to the GIS landscape? What are some use cases?"
@@ -68,6 +68,7 @@ Example Use Cases:
 1. Resolution enhancement
 1. 3D modeling & Digital Elevation/Surface Mapping
 1. Coastal vegetation monitoring
+1. Kringing
 
 ![alt-text](../assets/img/lc.png "Logo Title Text 1")
 
@@ -93,5 +94,3 @@ Example Use Cases:
 ![alt-text](../assets/img/fire_ai.png "Logo Title Text 1")
 
 <i> Santa Rosa fire mapping </i>
-
-

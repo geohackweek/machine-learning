@@ -39,4 +39,3 @@ Machine learning capabilities exist in both ESRI & QGIS (support vector machine)
 
 1. [robosat](https://github.com/mapbox/robosat)
 1. [training data from OSM](https://github.com/developmentseed/label-maker)
-
