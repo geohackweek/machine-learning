@@ -39,3 +39,7 @@ Machine learning capabilities exist in both ESRI & QGIS (support vector machine)
 
 1. [robosat](https://github.com/mapbox/robosat)
 1. [training data from OSM](https://github.com/developmentseed/label-maker)
+
+## Basic Discussion of Learning
+
+1. [Gradient Descent & Cost/Loss Functions](https://towardsdatascience.com/machine-learning-fundamentals-via-linear-regression-41a5d11f5220)
