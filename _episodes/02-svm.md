@@ -43,7 +43,7 @@ Real life situations can be much more complex. It’s rare to be able to draw a 
 
 If we’re allowed an infinite number of dimensions, we may be able to transform our data in a higher dimension that linearly separates the classes.
 
-![alt text](https://eight2late.files.wordpress.com/2017/01/svm-fig-3.png “classification with linear separable classes”)
+![alt text](../assets/img/svm-fig-circle.png “classification with circle boundary”)
 
 For example, the above data could be transformed using a third dimension, *z*. In the case of this circular boundary, we could consider transforming the data in the form of $z = ax^2 + by^2$.
 
