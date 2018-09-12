@@ -16,7 +16,10 @@ Machine learning is a general term used to apply to many techniques which utiliz
 
 Learning itself is the act of gradually improving performance on a task without being explicitly programmed. This process mimics human neurological functions.
 
-![alt-text](../assets/img/ml_image_type.png "Logo Title Text 1")
+## “What does the machine (i.e. the statistical model) actually learn?”
+
+This will vary, but in simple terms the model learns a function f such that f(X) maps to y, where X are the features (or independent variables) and y is the target (dependent variable).  
+
 
 ## ML as AI
 
@@ -26,9 +29,14 @@ Learning itself is the act of gradually improving performance on a task without 
 
 ## Computer Vision Applications
 
+
 ![alt-text](../assets/img/cat.png "Logo Title Text 1")
 
 <i> Images as RGB digital counts. </i>
+
+![alt-text](../assets/img/ml_image_type.png "Logo Title Text 1")
+
+<i> Types of computer vision ML aplications. </i>
 
 ![alt-text](../assets/img/segmentation.png "Logo Title Text 1")
 
