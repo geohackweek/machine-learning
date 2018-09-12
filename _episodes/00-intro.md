@@ -42,6 +42,8 @@ By tweaking m and b, we can create a line that will best describe the relationsh
 1. calculate a new y through iteration of possible m,b values
 1. assess how close you are (use a cost function)
 1. the process of iteration on m,b is done through gradient descent (subtract partial derivatives w.r.t. m, b to get the cost function error to a minimum)
+1. gradient gives us direction to minimize cost function
+1. learning rate tells us how big a step to take in that direction
 
 For ML applications, there are many cost functions. For linear regression, we can use MSE.
 
