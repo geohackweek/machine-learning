@@ -163,7 +163,7 @@ Example Use Cases:
 1. Resolution enhancement
 1. 3D modeling & Digital Elevation/Surface Mapping
 1. Coastal vegetation monitoring
-1. Kringing
+1. Kriging
 
 ![alt-text](../assets/img/lc.png "Logo Title Text 1")
 
