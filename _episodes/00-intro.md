@@ -23,7 +23,7 @@ Learning itself is the act of gradually improving performance on a task without 
 
 1. We have a set of data (x) and a set of target values (y)
 1. We want to iteratively determine, or learn, the function that relates x to y
-1. We want to automatically iterate through statistical updating (or even reinformcement!)
+1. We want to automatically iterate to learn this function by using statistics (minimize a cost or loss function)
 
 This will vary, but in simple terms the model learns a function f such that f(X) maps to y, where X are the features (or independent variables) and y is the target (dependent variable).  
 
