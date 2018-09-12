@@ -36,7 +36,9 @@ keypoints:
 Machine learning capabilities exist in both ESRI & QGIS (support vector machine), however for scaling to large image sets, opensource scripting is nicely adaptable.
 
 ## Mapbox & Development Seed
-
+(super cool geospatial companies with international offices)
+1. [Mapbox on github](https://github.com/mapbox): they have some awesome tutorials ad open source tools to check out
+1. [DevSeed onn github](https://github.com/developmentseed): Related to Mapbox, they do a lot of GIS Deep Learning
 1. [robosat](https://github.com/mapbox/robosat)
 1. [training data from OSM](https://github.com/developmentseed/label-maker)
 
