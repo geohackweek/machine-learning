@@ -12,7 +12,7 @@ keypoints:
 
 # What is Machine Learning (ML)?
 
-Machine learning is a general term used to apply to many techniques which utilize statistical iteration and feedback so that correlations or logic is learned rather tha dictated.
+Machine learning is a general term used to apply to many techniques which utilize statistical iteration and feedback so that correlations or logic is learned rather than dictated.
 
 Learning itself is the act of gradually improving performance on a task without being explicitly programmed. This process mimics human neurological functions.
 
@@ -20,6 +20,10 @@ Learning itself is the act of gradually improving performance on a task without 
 1. How you catch a baseball or get out of the way of a moving car. (retina -> brain -> reflex)
 
 ## [“What does the machine (i.e. the statistical model) actually learn?”](https://towardsdatascience.com/linear-regression-using-gradient-descent-in-10-lines-of-code-642f995339c0)
+
+1. We have a set of data (x) and a set of target values (y)
+1. We want to iteratively determine, or learn, the function that relates x to y
+1. We want to automatically iterate through statistical updating (or even reinformcement!)
 
 This will vary, but in simple terms the model learns a function f such that f(X) maps to y, where X are the features (or independent variables) and y is the target (dependent variable).  
 
