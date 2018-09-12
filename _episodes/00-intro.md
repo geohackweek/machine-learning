@@ -37,6 +37,12 @@ The most basic example is simple linear regression.
 
 By tweaking m and b, we can create a line that will best describe the relationship between x and y. How do we know we’re close? We use a cost (loss) function. A high cost value means it’s expensive — our approximation is far from describing the real relationship. On the other hand, a low cost value means it’s cheap — our approximation is close to describing the relationship.
 
+<i> Basic Idea </i>
+1. we need m,b
+1. calculate a new y through iteration of possible m,b values
+1. assess how close you are (use a cost function)
+1. the process of iteration on m,b is done through gradient descent (subtract partial derivatives w.r.t. m, b to get the cost function error to a minimum)
+
 For ML applications, there are many cost functions. For linear regression, we can use MSE.
 
 We can't brute force our way through iterating on values for m & b. We can use something called Gradient Descent, which is the act of applying partial derivatives, with respect to both m and b, to the cost function to point us to the lowest point. 
