@@ -16,6 +16,9 @@ Machine learning is a general term used to apply to many techniques which utiliz
 
 Learning itself is the act of gradually improving performance on a task without being explicitly programmed. This process mimics human neurological functions.
 
+1. Teaching a child about danger, the alphabet, or to speak (overt repetition and supervision)
+1. How you catch a baseball or get out of the way of a moving car. (retina -> brain -> reflex)
+
 ## [“What does the machine (i.e. the statistical model) actually learn?”](https://towardsdatascience.com/linear-regression-using-gradient-descent-in-10-lines-of-code-642f995339c0)
 
 This will vary, but in simple terms the model learns a function f such that f(X) maps to y, where X are the features (or independent variables) and y is the target (dependent variable).  
